@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+# Iniya.E
+# 24900540
+# Experiment 1 Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,9 +60,19 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-
+<img scr="https://github.com/user-attachments/assets/8906bde7-9c2d-4a83-ada5-a0d302f8a71d"
+width="400"
+height="500" /> 
 ## PROGRAM
-
+<img scr="https://github.com/user-attachments/assets/cc1c924c-d3a6-443b-a4be-76d67317149b"
+width="400"
+height="500" /> 
 ## OUTPUT
-
+<img scr="https://github.com/user-attachments/assets/6d8edc28-a262-4fc2-8edc-f47d4ebb1462"
+width="400"
+height="500" />
+<img scr="https://github.com/user-attachments/assets/cdc26ca5-2bd1-429d-a113-25b5b92ffecd"
+width="400"
+height="500" /> 
 ## RESULT
+To design and implement a system for LED control using an Arduino microcontroller and a push button.
